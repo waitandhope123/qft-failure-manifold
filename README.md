@@ -188,7 +188,7 @@ This lab is most useful for readers who already know QFT and want to understand 
 ## Repository Contents
 
 ```text
-QFT-Boundary-Lab/
+QFT-Failure-Manifold/
 ├── docs/                        # 📚 Complete toy documentation
 │   ├── guides/                  # User guides
 │   │   ├── common_pitfalls.md
@@ -257,11 +257,11 @@ The structure of that boundary manifold suggests what kind of theory it is:
 
 ```bibtex
 @software{qft_boundary_lab,
-  title   = {QFT Boundary Lab: A Diagnostic Test Suite for Quantum Field Theory},
+  title   = {QFT Failure Manifold: A Diagnostic Test Suite for Quantum Field Theory},
   author  = {DeRenzis, Sam},
   year    = {2026},
   version = {1.0.0},
-  url     = {https://github.com/waitandhope123/qft-failure-manifold},
+  url     = {https://github.com/waitandhope123/qft-failure-manifold/,
   note    = {Systematic mapping and analysis of quantum field theory failure modes through 100 computational experiments across 11 phases}
 }
 ```
