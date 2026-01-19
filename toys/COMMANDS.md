@@ -172,6 +172,7 @@ All toys are executed directly using Python.
 
 ### Toy 050 — Cross-Toy Comparator
     python toy_050_cross_toy_comparator.py
+    python toy_050_qft_comparator.py toy_002_unruh_detector.json toy_010_bogoliubov_inequivalent_vacua.json
 
 ---
 
@@ -281,6 +282,8 @@ All toys are executed directly using Python.
 
 ### Toy 081 — Cross-Toy Failure-Mode Classifier
     python toy_081_failure_mode_classifier.py
+    python toy_081_cross_toy_failure_mode_classifier.py --inputs toy_002_unruh_detector.json,toy_010_bogoliubov_inequivalent_vacua.json,toy_050_qft_comparator.json --out toy_081_report.json
+
 
 ### Toy 082 — GR–QFT Dual Failure-Mode Non-Isomorphism
     python toy_082_gr_qft_failure_comparison.py
