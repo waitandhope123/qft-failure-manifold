@@ -1,4 +1,4 @@
-# QFT Boundary Lab
+# QFT Failure Manifold
 
 **Mapping QFT's boundary manifold: 100 computational experiments stress-testing Quantum Field Theory through UV/IR divergences, vacuum structure, gauge redundancy, renormalization ambiguity, entanglement limits, and effective theory breakdown**
 
